@@ -1,10 +1,10 @@
-# Test
+# Readme Creator with Node
 
-
+![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)
 
 ## Description
 
-werwer
+Using node to create a CLI app that accepts user inputs and generates a high-quality README.md file
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ werwer
 
 * [Usage](#usage)
 
-
+* [License](#license)
 
 * [Contributing](#contributing)
 
@@ -25,28 +25,30 @@ werwer
 To install necessary dependencies, run the following command:
 
 ```
-werwer
+npm install
 ```
 
 ## Usage
 
-werwer
+open source
 
+## License
 
+This project is licensed under the Apache license.
 
 ## Contributing
 
-werwer
+NA
 
 ## Tests
 
 To run tests, run the following command:
 
 ```
-werwer
+NA
 ```
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at wer@gmail.com. You can find more of my work at [jdhawks2132](http://github.com/jdhawks2132/).
+If you have any questions about the repo, open an issue or contact me directly at jdhawks.dev@gmail.com. You can find more of my work at [jdhawks2132](http://github.com/jdhawks2132/).
 
